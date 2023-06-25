@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrototipoIHC</string>
+    <string-array name="spinner_options">
+        <item>Cápsula</item>
+        <item>Pílula</item>
+        <item>Injeção</item>
+        <item>Gotas</item>
+        <item>Outro</item>
+    </string-array>
+</resources>
